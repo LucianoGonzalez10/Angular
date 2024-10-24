@@ -1,0 +1,10 @@
+/* Estilo opcional para productos con descuento */
+li {
+    margin: 10px 0;
+  }
+  
+  li span {
+    font-weight: bold;
+    font-size: 0.9em; /* Tamaño de fuente más pequeño */
+  }
+  
